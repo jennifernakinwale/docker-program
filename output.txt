@@ -1,0 +1,44 @@
+list of files in /home/data: ['IF.txt', 'Limerick.txt'], number of files: 2
+
+Number of words in /home/data/limerick.txt: 32
+Number of words in /home/data/IF.txt: 287
+Total number of words in both files: 319
+
+Top three(3) words in IF.txt with the highest frequencies
+dict_values(['you: 14', 'If: 13', 'can: 12'])
+
+Your machine IP address is: 172.17.0.3
+
+list of files in /home/data: ['IF.txt', 'Limerick.txt', 'output.txt'], number of files: 3
+
+Number of words in /home/data/limerick.txt: 32
+Number of words in /home/data/IF.txt: 287
+Total number of words in both files: 319
+
+Top three(3) words in IF.txt with the highest frequencies
+dict_values(['you: 14', 'If: 13', 'can: 12'])
+
+Your machine IP address is: 172.17.0.3
+
+list of files in /home/data: ['IF.txt', 'Limerick.txt', 'output.txt'], number of files: 3
+
+Number of words in /home/data/limerick.txt: 32
+Number of words in /home/data/IF.txt: 287
+Total number of words in both files: 319
+
+Top three(3) words in IF.txt with the highest frequencies
+dict_values(['you: 14', 'If: 13', 'can: 12'])
+
+Your machine IP address is: 172.17.0.3
+
+list of files in /home/data: ['IF.txt', 'Limerick.txt', 'output.txt'], number of files: 3
+
+Number of words in /home/data/limerick.txt: 32
+Number of words in /home/data/IF.txt: 287
+Total number of words in both files: 319
+
+Top three(3) words in IF.txt with the highest frequencies
+dict_values(['you: 14', 'If: 13', 'can: 12'])
+
+Your machine IP address is: 172.17.0.3
+
